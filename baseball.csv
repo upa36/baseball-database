@@ -1,0 +1,329 @@
+First Name,Last Name,Position,Throws,Hits,Team Location,Team Mascot,Team Abbreviation,League,Division,Game Start Time,Home Team,Away Team,Home Score,Away Score,At Bats,Runs,Hits,Doubles,Triples,Home Runs,Runs Batted In,Walks,StrikeOuts,Steals,Wins,Innings Pitched,Hits (Pitcher),Runs (Pitcher),Earned Runs,Walks (Pitcher),Strike Outs (Pitcher)
+Chris,Archer,SP,R,R,Pittsburgh,Pirates,PIT,NL,Central,2019-06-06 12:35:00,PIT,ATL,6,1,0,0,0,0,0,0,0,0,0,0,Y,6,6,1,1,2,6
+Josh,Bell,1B,R,B,Pittsburgh,Pirates,PIT,NL,Central,2019-06-06 12:35:00,PIT,ATL,6,1,4,2,3,3,0,0,2,0,0,0,0,0,0,0,0,0,0
+Francisco,Liriano,SP,L,L,Pittsburgh,Pirates,PIT,NL,Central,2019-06-06 12:35:00,PIT,ATL,6,1,0,0,0,0,0,0,0,0,0,0,Y,1.2,0,0,0,0,1
+Starling,Marte,CF,R,R,Pittsburgh,Pirates,PIT,NL,Central,2019-06-06 12:35:00,PIT,ATL,6,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colin,Moran,3B,R,L,Pittsburgh,Pirates,PIT,NL,Central,2019-06-06 12:35:00,PIT,ATL,6,1,3,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0
+Kevin,Newman,SS,R,R,Pittsburgh,Pirates,PIT,NL,Central,2019-06-06 12:35:00,PIT,ATL,6,1,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Gregory,Polanco,RF,L,L,Pittsburgh,Pirates,PIT,NL,Central,2019-06-06 12:35:00,PIT,ATL,6,1,4,1,1,0,0,1,1,0,2,0,0,0,0,0,0,0,0
+Bryan,Reynolds,LF,R,B,Pittsburgh,Pirates,PIT,NL,Central,2019-06-06 12:35:00,PIT,ATL,6,1,4,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Jacob,Stallings,C,R,R,Pittsburgh,Pirates,PIT,NL,Central,2019-06-06 12:35:00,PIT,ATL,6,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Cole,Tucker,SS,R,B,Pittsburgh,Pirates,PIT,NL,Central,2019-06-06 12:35:00,PIT,ATL,6,1,3,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Felipe,Vazquez,RP,L,L,Pittsburgh,Pirates,PIT,NL,Central,2019-06-06 12:35:00,PIT,ATL,6,1,0,0,0,0,0,0,0,0,0,0,Y,1.1,1,0,0,2,1
+Elvis,Andrus,SS,R,R,Texas,Rangers,TEX,AL,West,2019-06-06 20:05:00,TEX,BAL,4,3,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Asdrubal,Cabrera,3B,R,B,Texas,Rangers,TEX,AL,West,2019-06-06 20:05:00,TEX,BAL,4,3,2,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Jesse,Chavez,RP,R,R,Texas,Rangers,TEX,AL,West,2019-06-06 20:05:00,TEX,BAL,4,3,0,0,0,0,0,0,0,0,0,0,Y,1,0,0,0,0,1
+Delino,DeShields,LF,R,R,Texas,Rangers,TEX,AL,West,2019-06-06 20:05:00,TEX,BAL,4,3,3,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Ronald,Guzman,1B,L,L,Texas,Rangers,TEX,AL,West,2019-06-06 20:05:00,TEX,BAL,4,3,3,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Ariel,Jurado,RP,R,R,Texas,Rangers,TEX,AL,West,2019-06-06 20:05:00,TEX,BAL,4,3,0,0,0,0,0,0,0,0,0,0,Y,6,8,3,3,1,6
+Shawn,Kelley,RP,R,R,Texas,Rangers,TEX,AL,West,2019-06-06 20:05:00,TEX,BAL,4,3,0,0,0,0,0,0,0,0,0,0,Y,1,0,0,0,1,1
+Isiah,Kiner-Falefa,C,R,R,Texas,Rangers,TEX,AL,West,2019-06-06 20:05:00,TEX,BAL,4,3,3,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Chris,Martin,RP,R,R,Texas,Rangers,TEX,AL,West,2019-06-06 20:05:00,TEX,BAL,4,3,0,0,0,0,0,0,0,0,0,0,Y,1,0,0,0,0,3
+Nomar,Mazara,RF,L,L,Texas,Rangers,TEX,AL,West,2019-06-06 20:05:00,TEX,BAL,4,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rougned,Odor,2B,R,L,Texas,Rangers,TEX,AL,West,2019-06-06 20:05:00,TEX,BAL,4,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hunter,Pence,RF,R,R,Texas,Rangers,TEX,AL,West,2019-06-06 20:05:00,TEX,BAL,4,3,4,1,1,0,0,1,1,0,2,0,0,0,0,0,0,0,0
+Danny,Santana,CF,R,B,Texas,Rangers,TEX,AL,West,2019-06-06 20:05:00,TEX,BAL,4,3,3,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Scott,Barlow,RP,R,R,Kansas City,Royals,KC,AL,Central,2019-06-06 13:15:00,KC,BOS,5,7,0,0,0,0,0,0,0,0,0,0,N,1.1,1,3,3,2,3
+Cheslor,Cuthbert,3B,R,R,Kansas City,Royals,KC,AL,Central,2019-06-06 13:15:00,KC,BOS,5,7,5,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Danny,Duffy,SP,L,L,Kansas City,Royals,KC,AL,Central,2019-06-06 13:15:00,KC,BOS,5,7,0,0,0,0,0,0,0,0,0,0,N,2.1,4,4,4,2,2
+Brian,Flynn,RP,L,L,Kansas City,Royals,KC,AL,Central,2019-06-06 13:15:00,KC,BOS,5,7,0,0,0,0,0,0,0,0,0,0,N,3.1,3,0,0,2,3
+Cam,Gallagher,C,R,R,Kansas City,Royals,KC,AL,Central,2019-06-06 13:15:00,KC,BOS,5,7,3,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Alex,Gordon,LF,R,L,Kansas City,Royals,KC,AL,Central,2019-06-06 13:15:00,KC,BOS,5,7,5,2,3,0,0,1,1,0,2,0,0,0,0,0,0,0,0
+Billy,Hamilton,CF,R,B,Kansas City,Royals,KC,AL,Central,2019-06-06 13:15:00,KC,BOS,5,7,4,0,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+Nicky,Lopez,2B,R,L,Kansas City,Royals,KC,AL,Central,2019-06-06 13:15:00,KC,BOS,5,7,4,1,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+Kevin,McCarthy,RP,R,R,Kansas City,Royals,KC,AL,Central,2019-06-06 13:15:00,KC,BOS,5,7,0,0,0,0,0,0,0,0,0,0,N,2,1,0,0,0,0
+Whit,Merrifield,2B,R,R,Kansas City,Royals,KC,AL,Central,2019-06-06 13:15:00,KC,BOS,5,7,5,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Adalberto,Mondesi,2B,R,B,Kansas City,Royals,KC,AL,Central,2019-06-06 13:15:00,KC,BOS,5,7,5,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+Ryan,O'Hearn,1B,L,L,Kansas City,Royals,KC,AL,Central,2019-06-06 13:15:00,KC,BOS,5,7,5,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Jorge,Soler,RF,R,R,Kansas City,Royals,KC,AL,Central,2019-06-06 13:15:00,KC,BOS,5,7,5,1,2,1,0,1,2,0,0,0,0,0,0,0,0,0,0
+Nolan,Arenado,3B,R,R,Colorado,Rockies,COL,NL,West,2019-06-06 14:20:00,CHC,COL,1,3,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+David,Dahl,LF,R,L,Colorado,Rockies,COL,NL,West,2019-06-06 14:20:00,CHC,COL,1,3,4,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Ian,Desmond,1B,R,R,Colorado,Rockies,COL,NL,West,2019-06-06 14:20:00,CHC,COL,1,3,4,1,2,2,0,0,1,0,1,0,0,0,0,0,0,0,0
+Jairo,Diaz,RP,R,R,Colorado,Rockies,COL,NL,West,2019-06-06 14:20:00,CHC,COL,1,3,0,0,0,0,0,0,0,0,0,0,Y,1,1,0,0,1,2
+Chris,Iannetta,C,R,R,Colorado,Rockies,COL,NL,West,2019-06-06 14:20:00,CHC,COL,1,3,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Peter,Lambert,SP,R,R,Colorado,Rockies,COL,NL,West,2019-06-06 14:20:00,CHC,COL,1,3,0,0,0,0,0,0,0,0,0,0,Y,7,4,1,1,1,9
+Scott,Oberg,RP,R,R,Colorado,Rockies,COL,NL,West,2019-06-06 14:20:00,CHC,COL,1,3,0,0,0,0,0,0,0,0,0,0,Y,1,0,0,0,0,1
+Mark,Reynolds,1B,R,R,Colorado,Rockies,COL,NL,West,2019-06-06 14:20:00,CHC,COL,1,3,4,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Brendan,Rodgers,SS,R,R,Colorado,Rockies,COL,NL,West,2019-06-06 14:20:00,CHC,COL,1,3,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Trevor,Story,SS,R,R,Colorado,Rockies,COL,NL,West,2019-06-06 14:20:00,CHC,COL,1,3,4,1,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0
+Raimel,Tapia,CF,L,L,Colorado,Rockies,COL,NL,West,2019-06-06 14:20:00,CHC,COL,1,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Harrison,Bader,CF,R,R,St. Louis,Cardinals,STL,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,2,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Matt,Carpenter,1B,R,L,St. Louis,Cardinals,STL,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,4,0,1,0,0,0,1,0,3,1,0,0,0,0,0,0,0
+Paul,DeJong,SS,R,R,St. Louis,Cardinals,STL,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,4,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0,0
+Dexter,Fowler,RF,R,B,St. Louis,Cardinals,STL,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+John,Gant,RP,R,R,St. Louis,Cardinals,STL,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,0,0,0,0,0,0,0,0,0,0,Y,1.1,0,0,0,0,1
+Paul,Goldschmidt,1B,R,R,St. Louis,Cardinals,STL,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Jordan,Hicks,RP,R,R,St. Louis,Cardinals,STL,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,0,0,0,0,0,0,0,0,0,0,Y,1,0,0,0,0,1
+Dakota,Hudson,SP,R,R,St. Louis,Cardinals,STL,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,0,0,0,0,0,0,0,0,0,0,Y,6.1,5,1,1,4,3
+Andrew,Miller,RP,L,L,St. Louis,Cardinals,STL,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,0,0,0,0,0,0,0,0,0,0,Y,0.1,0,0,0,0,1
+Marcell,Ozuna,LF,R,R,St. Louis,Cardinals,STL,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,4,0,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Matt,Wieters,C,R,B,St. Louis,Cardinals,STL,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Kolten,Wong,2B,R,L,St. Louis,Cardinals,STL,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,4,0,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0
+Ehire,Adrianza,SS,R,B,Minnesota,Twins,MIN,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Willians,Astudillo,C,R,R,Minnesota,Twins,MIN,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jose,Berrios,SP,R,R,Minnesota,Twins,MIN,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,0,0,0,0,0,0,0,0,0,0,Y,6,2,2,1,1,6
+C.J.,Cron,1B,R,R,Minnesota,Twins,MIN,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mitch,Garver,C,R,R,Minnesota,Twins,MIN,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,5,0,1,1,0,0,1,0,4,0,0,0,0,0,0,0,0
+Marwin,Gonzalez,3B,R,B,Minnesota,Twins,MIN,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Max,Kepler,RF,L,L,Minnesota,Twins,MIN,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,4,3,4,0,0,3,4,1,0,0,0,0,0,0,0,0,0
+Matt,Magill,RP,R,R,Minnesota,Twins,MIN,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,0,0,0,0,0,0,0,0,0,0,Y,0,1,1,1,1,0
+Trevor,May,RP,R,R,Minnesota,Twins,MIN,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,0,0,0,0,0,0,0,0,0,0,Y,1,0,0,0,0,0
+Jorge,Polanco,SS,R,B,Minnesota,Twins,MIN,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,5,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Taylor,Rogers,RP,L,L,Minnesota,Twins,MIN,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,0,0,0,0,0,0,0,0,0,0,Y,2,1,1,1,0,3
+Eddie,Rosario,LF,R,L,Minnesota,Twins,MIN,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Jonathan,Schoop,2B,R,R,Minnesota,Twins,MIN,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Albert,Almora Jr.,CF,R,R,Chicago,Cubs,CHC,NL,Central,2019-06-06 14:20:00,CHC,COL,1,3,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Javier,Baez,SS,R,R,Chicago,Cubs,CHC,NL,Central,2019-06-06 14:20:00,CHC,COL,1,3,4,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+David,Bote,3B,R,R,Chicago,Cubs,CHC,NL,Central,2019-06-06 14:20:00,CHC,COL,1,3,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Kris,Bryant,3B,R,R,Chicago,Cubs,CHC,NL,Central,2019-06-06 14:20:00,CHC,COL,1,3,3,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Willson,Contreras,C,R,R,Chicago,Cubs,CHC,NL,Central,2019-06-06 14:20:00,CHC,COL,1,3,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Daniel,Descalso,3B,R,L,Chicago,Cubs,CHC,NL,Central,2019-06-06 14:20:00,CHC,COL,1,3,2,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0
+Carl,Edwards Jr.,RP,R,R,Chicago,Cubs,CHC,NL,Central,2019-06-06 14:20:00,CHC,COL,1,3,0,0,0,0,0,0,0,0,0,0,N,0.2,0,0,0,0,1
+Jose,Quintana,SP,L,R,Chicago,Cubs,CHC,NL,Central,2019-06-06 14:20:00,CHC,COL,1,3,0,0,0,0,0,0,0,0,0,0,N,7.1,6,3,3,0,4
+Anthony,Rizzo,1B,L,L,Chicago,Cubs,CHC,NL,Central,2019-06-06 14:20:00,CHC,COL,1,3,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Kyle,Ryan,SP,L,L,Chicago,Cubs,CHC,NL,Central,2019-06-06 14:20:00,CHC,COL,1,3,0,0,0,0,0,0,0,0,0,0,N,1,0,0,0,1,2
+Kyle,Schwarber,LF,R,L,Chicago,Cubs,CHC,NL,Central,2019-06-06 14:20:00,CHC,COL,1,3,4,0,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0
+Willy,Adames,SS,R,R,Tampa Bay,Rays,TB,AL,East,2019-06-06 13:10:00,DET,TB,1,6,5,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Christian,Arroyo,3B,R,R,Tampa Bay,Rays,TB,AL,East,2019-06-06 13:10:00,DET,TB,1,6,3,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Jalen,Beeks,RP,L,L,Tampa Bay,Rays,TB,AL,East,2019-06-06 13:10:00,DET,TB,1,6,0,0,0,0,0,0,0,0,0,0,Y,4.1,4,0,0,0,2
+Diego,Castillo,RP,R,R,Tampa Bay,Rays,TB,AL,East,2019-06-06 13:10:00,DET,TB,1,6,0,0,0,0,0,0,0,0,0,0,Y,0.1,1,0,0,0,0
+Travis,d'Arnaud,C,R,R,Tampa Bay,Rays,TB,AL,East,2019-06-06 13:10:00,DET,TB,1,6,3,2,2,0,0,2,4,1,1,0,0,0,0,0,0,0,0
+Yandy,Diaz,3B,R,R,Tampa Bay,Rays,TB,AL,East,2019-06-06 13:10:00,DET,TB,1,6,5,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avisail,Garcia,RF,R,R,Tampa Bay,Rays,TB,AL,East,2019-06-06 13:10:00,DET,TB,1,6,5,0,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Kevin,Kiermaier,CF,R,L,Tampa Bay,Rays,TB,AL,East,2019-06-06 13:10:00,DET,TB,1,6,3,1,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Austin,Meadows,CF,L,L,Tampa Bay,Rays,TB,AL,East,2019-06-06 13:10:00,DET,TB,1,6,5,0,1,0,0,0,1,0,2,0,0,0,0,0,0,0,0
+Tommy,Pham,CF,R,R,Tampa Bay,Rays,TB,AL,East,2019-06-06 13:10:00,DET,TB,1,6,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Daniel,Robertson,2B,R,R,Tampa Bay,Rays,TB,AL,East,2019-06-06 13:10:00,DET,TB,1,6,4,0,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Chaz,Roe,RP,R,R,Tampa Bay,Rays,TB,AL,East,2019-06-06 13:10:00,DET,TB,1,6,0,0,0,0,0,0,0,0,0,0,Y,1,0,0,0,2,2
+Ryne,Stanek,RP,R,R,Tampa Bay,Rays,TB,AL,East,2019-06-06 13:10:00,DET,TB,1,6,0,0,0,0,0,0,0,0,0,0,Y,2,2,1,1,0,2
+Hunter,Wood,RP,R,R,Tampa Bay,Rays,TB,AL,East,2019-06-06 13:10:00,DET,TB,1,6,0,0,0,0,0,0,0,0,0,0,Y,1.1,1,0,0,0,1
+Austin,Adams,RP,R,R,Seattle,Mariners,SEA,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,0,0,0,0,0,0,0,0,0,0,N,0.2,3,3,3,2,0
+Anthony,Bass,RP,R,R,Seattle,Mariners,SEA,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,0,0,0,0,0,0,0,0,0,0,N,2,2,1,1,2,1
+Gerson,Bautista,RP,R,R,Seattle,Mariners,SEA,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,0,0,0,0,0,0,0,0,0,0,N,1,1,1,1,2,0
+Brandon,Brennan,RP,R,R,Seattle,Mariners,SEA,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,0,0,0,0,0,0,0,0,0,0,N,1,1,0,0,0,2
+Roenis,Elias,SP,L,L,Seattle,Mariners,SEA,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,0,0,0,0,0,0,0,0,0,0,N,1,2,1,1,0,1
+Edwin,Encarnacion,DH,R,R,Seattle,Mariners,SEA,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,5,2,2,1,0,0,1,2,1,0,0,0,0,0,0,0,0
+Matt,Festa,RP,R,R,Seattle,Mariners,SEA,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,0,0,0,0,0,0,0,0,0,0,N,1,1,1,1,1,2
+Cory,Gearrin,RP,R,R,Seattle,Mariners,SEA,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,0,0,0,0,0,0,0,0,0,0,N,2,1,0,0,0,1
+Mitch,Haniger,RF,R,R,Seattle,Mariners,SEA,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Shed,Long,2B,R,L,Seattle,Mariners,SEA,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,7,1,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0
+Tommy,Milone,SP,L,L,Seattle,Mariners,SEA,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,0,0,0,0,0,0,0,0,0,0,N,5.1,3,1,1,1,1
+Dylan,Moore,3B,R,R,Seattle,Mariners,SEA,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,5,1,2,0,0,0,1,1,1,1,0,0,0,0,0,0,0
+Omar,Narvaez,C,R,L,Seattle,Mariners,SEA,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,6,1,2,0,0,1,1,1,2,0,0,0,0,0,0,0,0
+Domingo,Santana,RF,R,R,Seattle,Mariners,SEA,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,6,1,2,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+Kyle,Seager,3B,R,L,Seattle,Mariners,SEA,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,7,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Mallex,Smith,CF,R,L,Seattle,Mariners,SEA,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,6,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0
+Daniel,Vogelbach,1B,R,L,Seattle,Mariners,SEA,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,5,1,2,0,0,0,1,2,1,0,0,0,0,0,0,0,0
+Matt,Barnes,RP,R,R,Boston,Red Sox,BOS,AL,East,2019-06-06 13:15:00,KC,BOS,5,7,0,0,0,0,0,0,0,0,0,0,Y,1,2,1,1,0,2
+Andrew,Benintendi,LF,L,L,Boston,Red Sox,BOS,AL,East,2019-06-06 13:15:00,KC,BOS,5,7,5,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Mookie,Betts,RF,R,R,Boston,Red Sox,BOS,AL,East,2019-06-06 13:15:00,KC,BOS,5,7,3,1,1,0,0,1,2,2,0,0,0,0,0,0,0,0,0
+Xander,Bogaerts,SS,R,R,Boston,Red Sox,BOS,AL,East,2019-06-06 13:15:00,KC,BOS,5,7,4,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+Jackie,Bradley Jr.,CF,R,L,Boston,Red Sox,BOS,AL,East,2019-06-06 13:15:00,KC,BOS,5,7,2,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Ryan,Brasier,RP,R,R,Boston,Red Sox,BOS,AL,East,2019-06-06 13:15:00,KC,BOS,5,7,0,0,0,0,0,0,0,0,0,0,Y,1,2,0,0,0,2
+Colten,Brewer,RP,R,R,Boston,Red Sox,BOS,AL,East,2019-06-06 13:15:00,KC,BOS,5,7,0,0,0,0,0,0,0,0,0,0,Y,2,2,0,0,1,2
+Michael,Chavis,3B,R,R,Boston,Red Sox,BOS,AL,East,2019-06-06 13:15:00,KC,BOS,5,7,4,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+Rafael,Devers,3B,R,L,Boston,Red Sox,BOS,AL,East,2019-06-06 13:15:00,KC,BOS,5,7,3,1,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0
+Heath,Hembree,RP,R,R,Boston,Red Sox,BOS,AL,East,2019-06-06 13:15:00,KC,BOS,5,7,0,0,0,0,0,0,0,0,0,0,Y,1,0,0,0,0,1
+J.D.,Martinez,LF,R,R,Boston,Red Sox,BOS,AL,East,2019-06-06 13:15:00,KC,BOS,5,7,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eduardo,Nunez,2B,R,R,Boston,Red Sox,BOS,AL,East,2019-06-06 13:15:00,KC,BOS,5,7,4,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Josh,Taylor,RP,L,L,Boston,Red Sox,BOS,AL,East,2019-06-06 13:15:00,KC,BOS,5,7,0,0,0,0,0,0,0,0,0,0,Y,1,2,1,1,0,1
+Christian,Vazquez,C,R,R,Boston,Red Sox,BOS,AL,East,2019-06-06 13:15:00,KC,BOS,5,7,4,1,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0
+Marcus,Walden,RP,R,R,Boston,Red Sox,BOS,AL,East,2019-06-06 13:15:00,KC,BOS,5,7,0,0,0,0,0,0,0,0,0,0,Y,1.2,1,1,1,0,2
+Ryan,Weber,RP,R,R,Boston,Red Sox,BOS,AL,East,2019-06-06 13:15:00,KC,BOS,5,7,0,0,0,0,0,0,0,0,0,0,Y,1.1,5,2,2,0,1
+Ryan,Buchter,RP,L,L,Oakland,Athletics,OAK,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,0,0,0,0,0,0,0,0,0,0,Y,0.2,1,0,0,0,0
+Mark,Canha,1B,R,R,Oakland,Athletics,OAK,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,1,1,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+Matt,Chapman,3B,R,R,Oakland,Athletics,OAK,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,4,1,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0
+Khris,Davis,LF,R,R,Oakland,Athletics,OAK,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,5,1,2,0,0,0,1,0,2,0,0,0,0,0,0,0,0
+Mike,Fiers,SP,R,R,Oakland,Athletics,OAK,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,0,0,0,0,0,0,0,0,0,0,Y,6,7,3,3,0,5
+Liam,Hendriks,RP,R,R,Oakland,Athletics,OAK,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,0,0,0,0,0,0,0,0,0,0,Y,0.1,0,0,0,1,0
+Ramon,Laureano,CF,R,R,Oakland,Athletics,OAK,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,4,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Josh,Phegley,C,R,R,Oakland,Athletics,OAK,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Chad,Pinder,SS,R,R,Oakland,Athletics,OAK,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,4,1,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0
+Stephen,Piscotty,RF,R,R,Oakland,Athletics,OAK,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,5,2,2,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Jurickson,Profar,SS,R,B,Oakland,Athletics,OAK,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,3,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+Marcus,Semien,SS,R,R,Oakland,Athletics,OAK,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,5,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Joakim,Soria,RP,R,R,Oakland,Athletics,OAK,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,0,0,0,0,0,0,0,0,0,0,Y,1,1,1,1,0,0
+Lou,Trivino,RP,R,R,Oakland,Athletics,OAK,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,0,0,0,0,0,0,0,0,0,0,Y,1,0,0,0,1,0
+Jesus,Aguilar,1B,R,R,Milwaukee,Brewers,MIL,NL,Central,2019-06-06 14:10:00,MIL,MIA,5,1,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Orlando,Arcia,SS,R,R,Milwaukee,Brewers,MIL,NL,Central,2019-06-06 14:10:00,MIL,MIA,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ryan,Braun,LF,R,R,Milwaukee,Brewers,MIL,NL,Central,2019-06-06 14:10:00,MIL,MIA,5,1,4,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Lorenzo,Cain,CF,R,R,Milwaukee,Brewers,MIL,NL,Central,2019-06-06 14:10:00,MIL,MIA,5,1,3,2,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Josh,Hader,RP,L,L,Milwaukee,Brewers,MIL,NL,Central,2019-06-06 14:10:00,MIL,MIA,5,1,0,0,0,0,0,0,0,0,0,0,Y,1.1,0,0,0,1,3
+Jeremy,Jeffress,RP,R,R,Milwaukee,Brewers,MIL,NL,Central,2019-06-06 14:10:00,MIL,MIA,5,1,0,0,0,0,0,0,0,0,0,0,Y,1.2,1,0,0,1,2
+Mike,Moustakas,2B,R,L,Milwaukee,Brewers,MIL,NL,Central,2019-06-06 14:10:00,MIL,MIA,5,1,4,2,2,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+Freddy,Peralta,SP,R,R,Milwaukee,Brewers,MIL,NL,Central,2019-06-06 14:10:00,MIL,MIA,5,1,0,0,0,0,0,0,0,0,0,0,Y,6,4,1,1,0,9
+Hernan,Perez,3B,R,R,Milwaukee,Brewers,MIL,NL,Central,2019-06-06 14:10:00,MIL,MIA,5,1,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Manny,Pina,C,R,R,Milwaukee,Brewers,MIL,NL,Central,2019-06-06 14:10:00,MIL,MIA,5,1,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Christian,Yelich,RF,R,L,Milwaukee,Brewers,MIL,NL,Central,2019-06-06 14:10:00,MIL,MIA,5,1,4,1,3,0,0,1,2,0,1,1,0,0,0,0,0,0,0
+Jorge,Alfaro,C,R,R,Miami,Marlins,MIA,NL,East,2019-06-06 14:10:00,MIL,MIA,5,1,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Brian,Anderson,3B,R,R,Miami,Marlins,MIA,NL,East,2019-06-06 14:10:00,MIL,MIA,5,1,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Austin,Brice,RP,R,R,Miami,Marlins,MIA,NL,East,2019-06-06 14:10:00,MIL,MIA,5,1,0,0,0,0,0,0,0,0,0,0,N,1,0,0,0,0,2
+Starlin,Castro,2B,R,R,Miami,Marlins,MIA,NL,East,2019-06-06 14:10:00,MIL,MIA,5,1,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Garrett,Cooper,LF,R,R,Miami,Marlins,MIA,NL,East,2019-06-06 14:10:00,MIL,MIA,5,1,3,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+Austin,Dean,LF,R,R,Miami,Marlins,MIA,NL,East,2019-06-06 14:10:00,MIL,MIA,5,1,4,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tayron,Guerrero,RP,R,R,Miami,Marlins,MIA,NL,East,2019-06-06 14:10:00,MIL,MIA,5,1,0,0,0,0,0,0,0,0,0,0,N,1,3,1,1,0,0
+Harold,Ramirez,RF,R,R,Miami,Marlins,MIA,NL,East,2019-06-06 14:10:00,MIL,MIA,5,1,4,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+JT,Riddle,SS,R,L,Miami,Marlins,MIA,NL,East,2019-06-06 14:10:00,MIL,MIA,5,1,3,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Miguel,Rojas,SS,R,R,Miami,Marlins,MIA,NL,East,2019-06-06 14:10:00,MIL,MIA,5,1,4,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+Sergio,Romo,SP,R,R,Miami,Marlins,MIA,NL,East,2019-06-06 14:10:00,MIL,MIA,5,1,0,0,0,0,0,0,0,0,0,0,N,1,0,0,0,0,0
+Caleb,Smith,SP,L,R,Miami,Marlins,MIA,NL,East,2019-06-06 14:10:00,MIL,MIA,5,1,0,0,0,0,0,0,0,0,0,0,N,5,6,4,4,2,2
+Trevor,Bauer,SP,R,R,Cleveland,Indians,CLE,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,0,0,0,0,0,0,0,0,0,0,N,8,5,5,5,3,7
+Jake,Bauers,LF,L,L,Cleveland,Indians,CLE,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Jon,Edwards,RP,R,R,Cleveland,Indians,CLE,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,0,0,0,0,0,0,0,0,0,0,N,0.2,0,0,0,0,0
+Jason,Kipnis,2B,R,L,Cleveland,Indians,CLE,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Francisco,Lindor,SS,R,B,Cleveland,Indians,CLE,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Jordan,Luplow,RF,R,R,Cleveland,Indians,CLE,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,3,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Leonys,Martin,CF,R,L,Cleveland,Indians,CLE,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Tyler,Naquin,CF,R,L,Cleveland,Indians,CLE,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,3,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Roberto,Perez,C,R,R,Cleveland,Indians,CLE,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,2,1,1,0,0,1,2,1,0,0,0,0,0,0,0,0,0
+Jose,Ramirez,2B,R,B,Cleveland,Indians,CLE,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carlos,Santana,1B,R,B,Cleveland,Indians,CLE,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,4,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Josh,Smith,RP,L,L,Cleveland,Indians,CLE,AL,Central,2019-06-06 19:00:00,CLE,MIN,4,5,0,0,0,0,0,0,0,0,0,0,N,0.1,2,0,0,0,1
+Shaun,Anderson,SP,R,R,San Francisco,Giants,SF,NL,West,2019-06-06 12:10:00,NYM,SF,7,3,0,0,0,0,0,0,0,0,0,0,N,6,6,3,3,3,3
+Brandon,Belt,1B,L,L,San Francisco,Giants,SF,NL,West,2019-06-06 12:10:00,NYM,SF,7,3,4,1,1,0,0,1,2,0,2,0,0,0,0,0,0,0,0
+Brandon,Crawford,SS,R,L,San Francisco,Giants,SF,NL,West,2019-06-06 12:10:00,NYM,SF,7,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Steven,Duggar,CF,R,L,San Francisco,Giants,SF,NL,West,2019-06-06 12:10:00,NYM,SF,7,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mark,Melancon,RP,R,R,San Francisco,Giants,SF,NL,West,2019-06-06 12:10:00,NYM,SF,7,3,0,0,0,0,0,0,0,0,0,0,N,1,5,4,4,1,0
+Reyes,Moronta,RP,R,R,San Francisco,Giants,SF,NL,West,2019-06-06 12:10:00,NYM,SF,7,3,0,0,0,0,0,0,0,0,0,0,N,0.1,2,0,0,0,0
+Joe,Panik,2B,R,L,San Francisco,Giants,SF,NL,West,2019-06-06 12:10:00,NYM,SF,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kevin,Pillar,CF,R,R,San Francisco,Giants,SF,NL,West,2019-06-06 12:10:00,NYM,SF,7,3,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Pablo,Sandoval,3B,R,B,San Francisco,Giants,SF,NL,West,2019-06-06 12:10:00,NYM,SF,7,3,4,2,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Stephen,Vogt,C,R,L,San Francisco,Giants,SF,NL,West,2019-06-06 12:10:00,NYM,SF,7,3,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Tony,Watson,RP,L,L,San Francisco,Giants,SF,NL,West,2019-06-06 12:10:00,NYM,SF,7,3,0,0,0,0,0,0,0,0,0,0,N,0.2,0,0,0,0,0
+Mike,Yastrzemski,LF,L,L,San Francisco,Giants,SF,NL,West,2019-06-06 12:10:00,NYM,SF,7,3,4,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Brandon,Drury,3B,R,R,Toronto,Blue Jays,TOR,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Freddy,Galvis,SS,R,B,Toronto,Blue Jays,TOR,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Randal,Grichuk,LF,R,R,Toronto,Blue Jays,TOR,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vladimir,Guerrero Jr.,3B,R,R,Toronto,Blue Jays,TOR,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lourdes,Gurriel Jr.,2B,R,R,Toronto,Blue Jays,TOR,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Teoscar,Hernandez,RF,R,R,Toronto,Blue Jays,TOR,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Edwin,Jackson,SP,R,R,Toronto,Blue Jays,TOR,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,0,0,0,0,0,0,0,0,0,0,N,3.1,6,6,2,2,3
+Elvis,Luciano,RP,R,R,Toronto,Blue Jays,TOR,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,0,0,0,0,0,0,0,0,0,0,N,1,1,0,0,1,2
+Luke,Maile,C,R,R,Toronto,Blue Jays,TOR,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tim,Mayza,RP,L,L,Toronto,Blue Jays,TOR,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,0,0,0,0,0,0,0,0,0,0,N,1,0,0,0,0,1
+Thomas,Pannone,RP,L,L,Toronto,Blue Jays,TOR,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,0,0,0,0,0,0,0,0,0,0,N,3.2,1,0,0,1,1
+Justin,Smoak,1B,L,B,Toronto,Blue Jays,TOR,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eric,Sogard,2B,R,L,Toronto,Blue Jays,TOR,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,4,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Jaime,Barria,SP,R,R,Los Angeles,Angels,LAA,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,0,0,0,0,0,0,0,0,0,0,N,5,3,1,1,2,6
+Kole,Calhoun,RF,L,L,Los Angeles,Angels,LAA,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,4,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+David,Fletcher,SS,R,R,Los Angeles,Angels,LAA,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dustin,Garneau,C,R,R,Los Angeles,Angels,LAA,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Brian,Goodwin,CF,R,L,Los Angeles,Angels,LAA,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,2,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+Tommy,La Stella,3B,R,L,Los Angeles,Angels,LAA,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,5,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Shohei,Ohtani,DH,R,L,Los Angeles,Angels,LAA,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luis,Rengifo,2B,R,B,Los Angeles,Angels,LAA,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,4,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Tyler,Skaggs,SP,L,L,Los Angeles,Angels,LAA,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,0,0,0,0,0,0,0,0,0,0,N,4,6,6,5,4,4
+Mike,Trout,CF,R,R,Los Angeles,Angels,LAA,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,4,1,1,0,0,1,2,1,1,0,0,0,0,0,0,0,0
+Jared,Walsh,1B,L,L,Los Angeles,Angels,LAA,AL,West,2019-06-06 22:07:00,LAA,OAK,4,7,4,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Ronald,Acuna Jr.,LF,R,R,Atlanta,Braves,ATL,NL,East,2019-06-06 12:35:00,PIT,ATL,6,1,4,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Ozzie,Albies,2B,R,B,Atlanta,Braves,ATL,NL,East,2019-06-06 12:35:00,PIT,ATL,6,1,3,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Josh,Donaldson,3B,R,R,Atlanta,Braves,ATL,NL,East,2019-06-06 12:35:00,PIT,ATL,6,1,4,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Mike,Foltynewicz,SP,R,R,Atlanta,Braves,ATL,NL,East,2019-06-06 12:35:00,PIT,ATL,6,1,0,0,0,0,0,0,0,0,0,0,N,6,6,3,3,1,5
+Freddie,Freeman,1B,R,L,Atlanta,Braves,ATL,NL,East,2019-06-06 12:35:00,PIT,ATL,6,1,3,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Nick,Markakis,RF,L,L,Atlanta,Braves,ATL,NL,East,2019-06-06 12:35:00,PIT,ATL,6,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brian,McCann,C,R,L,Atlanta,Braves,ATL,NL,East,2019-06-06 12:35:00,PIT,ATL,6,1,3,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sean,Newcomb,SP,L,L,Atlanta,Braves,ATL,NL,East,2019-06-06 12:35:00,PIT,ATL,6,1,0,0,0,0,0,0,0,0,0,0,N,1,1,1,1,0,1
+Austin,Riley,3B,R,R,Atlanta,Braves,ATL,NL,East,2019-06-06 12:35:00,PIT,ATL,6,1,4,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Dansby,Swanson,SS,R,R,Atlanta,Braves,ATL,NL,East,2019-06-06 12:35:00,PIT,ATL,6,1,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Jacob,Webb,RP,R,R,Atlanta,Braves,ATL,NL,East,2019-06-06 12:35:00,PIT,ATL,6,1,0,0,0,0,0,0,0,0,0,0,N,1,3,2,2,0,1
+Patrick,Corbin,SP,L,L,Washington,Nationals,WSH,NL,East,2019-06-06 22:10:00,SD,WSH,5,4,0,0,0,0,0,0,0,0,0,0,N,5,5,5,3,5,6
+Brian,Dozier,2B,R,R,Washington,Nationals,WSH,NL,East,2019-06-06 22:10:00,SD,WSH,5,4,4,1,2,1,0,1,2,0,1,0,0,0,0,0,0,0,0
+Yan,Gomes,C,R,R,Washington,Nationals,WSH,NL,East,2019-06-06 22:10:00,SD,WSH,5,4,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Matt,Grace,RP,L,L,Washington,Nationals,WSH,NL,East,2019-06-06 22:10:00,SD,WSH,5,4,0,0,0,0,0,0,0,0,0,0,N,0.2,0,0,0,0,0
+Javy,Guerra,RP,R,R,Washington,Nationals,WSH,NL,East,2019-06-06 22:10:00,SD,WSH,5,4,0,0,0,0,0,0,0,0,0,0,N,1.2,1,0,0,1,2
+Howie,Kendrick,2B,R,R,Washington,Nationals,WSH,NL,East,2019-06-06 22:10:00,SD,WSH,5,4,4,1,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0
+Anthony,Rendon,3B,R,R,Washington,Nationals,WSH,NL,East,2019-06-06 22:10:00,SD,WSH,5,4,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Victor,Robles,CF,R,R,Washington,Nationals,WSH,NL,East,2019-06-06 22:10:00,SD,WSH,5,4,4,1,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0
+Tony,Sipp,RP,L,L,Washington,Nationals,WSH,NL,East,2019-06-06 22:10:00,SD,WSH,5,4,0,0,0,0,0,0,0,0,0,0,N,0.2,0,0,0,1,1
+Juan,Soto,LF,L,L,Washington,Nationals,WSH,NL,East,2019-06-06 22:10:00,SD,WSH,5,4,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Michael,Taylor,CF,R,R,Washington,Nationals,WSH,NL,East,2019-06-06 22:10:00,SD,WSH,5,4,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Trea,Turner,SS,R,R,Washington,Nationals,WSH,NL,East,2019-06-06 22:10:00,SD,WSH,5,4,3,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0
+Michael,Brantley,LF,L,L,Houston,Astros,HOU,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,5,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Alex,Bregman,3B,R,R,Houston,Astros,HOU,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,6,1,3,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Robinson,Chirinos,C,R,R,Houston,Astros,HOU,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,3,3,1,0,0,1,2,4,2,0,0,0,0,0,0,0,0
+Chris,Devenski,RP,R,R,Houston,Astros,HOU,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,0,0,0,0,0,0,0,0,0,0,Y,2,0,0,0,3,4
+Derek,Fisher,CF,R,L,Houston,Astros,HOU,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,6,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Yuli,Gurriel,1B,R,R,Houston,Astros,HOU,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,6,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Will,Harris,RP,R,R,Houston,Astros,HOU,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,0,0,0,0,0,0,0,0,0,0,Y,0.1,3,1,1,0,0
+Josh,James,SP,R,R,Houston,Astros,HOU,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,0,0,0,0,0,0,0,0,0,0,Y,2,0,0,0,3,4
+Tony,Kemp,LF,R,L,Houston,Astros,HOU,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,4,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0
+Jake,Marisnick,CF,R,R,Houston,Astros,HOU,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,5,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Jack,Mayfield,2B,R,R,Houston,Astros,HOU,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,4,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Roberto,Osuna,RP,R,R,Houston,Astros,HOU,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,0,0,0,0,0,0,0,0,0,0,Y,1.2,1,1,1,1,0
+Ryan,Pressly,RP,R,R,Houston,Astros,HOU,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,0,0,0,0,0,0,0,0,0,0,Y,0.2,1,1,1,2,0
+Hector,Rondon,RP,R,R,Houston,Astros,HOU,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,0,0,0,0,0,0,0,0,0,0,Y,1,1,1,1,0,1
+Justin,Verlander,SP,R,R,Houston,Astros,HOU,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,0,0,0,0,0,0,0,0,0,0,Y,6.1,5,3,3,0,7
+Tyler,White,2B,R,R,Houston,Astros,HOU,AL,West,2019-06-06 15:40:00,SEA,HOU,7,8,6,0,3,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Pete,Alonso,1B,R,R,New York,Mets,NYM,NL,East,2019-06-06 12:10:00,NYM,SF,7,3,4,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Michael,Conforto,RF,R,L,New York,Mets,NYM,NL,East,2019-06-06 12:10:00,NYM,SF,7,3,3,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Jeurys,Familia,RP,R,R,New York,Mets,NYM,NL,East,2019-06-06 12:10:00,NYM,SF,7,3,0,0,0,0,0,0,0,0,0,0,Y,1,0,0,0,0,2
+Todd,Frazier,3B,R,R,New York,Mets,NYM,NL,East,2019-06-06 12:10:00,NYM,SF,7,3,4,1,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+Adeiny,Hechavarria,SS,R,R,New York,Mets,NYM,NL,East,2019-06-06 12:10:00,NYM,SF,7,3,4,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juan,Lagares,CF,R,R,New York,Mets,NYM,NL,East,2019-06-06 12:10:00,NYM,SF,7,3,3,2,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+Seth,Lugo,SP,R,R,New York,Mets,NYM,NL,East,2019-06-06 12:10:00,NYM,SF,7,3,0,0,0,0,0,0,0,0,0,0,Y,1,0,0,0,0,1
+Tomas,Nido,C,R,R,New York,Mets,NYM,NL,East,2019-06-06 12:10:00,NYM,SF,7,3,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amed,Rosario,SS,R,R,New York,Mets,NYM,NL,East,2019-06-06 12:10:00,NYM,SF,7,3,3,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Dominic,Smith,1B,L,L,New York,Mets,NYM,NL,East,2019-06-06 12:10:00,NYM,SF,7,3,3,1,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Zack,Wheeler,SP,R,L,New York,Mets,NYM,NL,East,2019-06-06 12:10:00,NYM,SF,7,3,0,0,0,0,0,0,0,0,0,0,Y,7,3,3,3,1,6
+Tucker,Barnhart,C,R,B,Cincinnati,Reds,CIN,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,3,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0
+Anthony,DeSclafani,SP,R,R,Cincinnati,Reds,CIN,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,0,0,0,0,0,0,0,0,0,0,N,5,6,1,1,1,7
+Derek,Dietrich,LF,R,L,Cincinnati,Reds,CIN,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Amir,Garrett,RP,L,R,Cincinnati,Reds,CIN,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,0,0,0,0,0,0,0,0,0,0,N,1,1,0,0,0,1
+Jose,Iglesias,SS,R,R,Cincinnati,Reds,CIN,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Michael,Lorenzen,RP,R,R,Cincinnati,Reds,CIN,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,0,0,0,0,0,0,0,0,0,0,N,1.1,2,2,2,0,3
+Wandy,Peralta,RP,L,L,Cincinnati,Reds,CIN,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,0,0,0,0,0,0,0,0,0,0,N,0.2,0,0,0,0,0
+Yasiel,Puig,RF,R,R,Cincinnati,Reds,CIN,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,4,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+Nick,Senzel,3B,R,R,Cincinnati,Reds,CIN,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,3,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Eugenio,Suarez,3B,R,R,Cincinnati,Reds,CIN,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joey,Votto,1B,R,L,Cincinnati,Reds,CIN,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Jesse,Winker,RF,L,L,Cincinnati,Reds,CIN,NL,Central,2019-06-06 13:15:00,STL,CIN,3,1,3,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Austin,Adams,RP,R,R,Detroit,Tigers,DET,AL,Central,2019-06-06 13:10:00,DET,TB,1,6,0,0,0,0,0,0,0,0,0,0,N,1,0,0,0,0,2
+Victor,Alcantara,RP,R,R,Detroit,Tigers,DET,AL,Central,2019-06-06 13:10:00,DET,TB,1,6,0,0,0,0,0,0,0,0,0,0,N,1.1,0,0,0,0,1
+Gordon,Beckham,3B,R,R,Detroit,Tigers,DET,AL,Central,2019-06-06 13:10:00,DET,TB,1,6,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Nicholas,Castellanos,RF,R,R,Detroit,Tigers,DET,AL,Central,2019-06-06 13:10:00,DET,TB,1,6,4,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Brandon,Dixon,LF,R,R,Detroit,Tigers,DET,AL,Central,2019-06-06 13:10:00,DET,TB,1,6,4,0,2,0,0,0,1,0,1,1,0,0,0,0,0,0,0
+Buck,Farmer,RP,R,L,Detroit,Tigers,DET,AL,Central,2019-06-06 13:10:00,DET,TB,1,6,0,0,0,0,0,0,0,0,0,0,N,0.1,1,0,0,0,0
+Niko,Goodrum,SS,R,B,Detroit,Tigers,DET,AL,Central,2019-06-06 13:10:00,DET,TB,1,6,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Grayson,Greiner,C,R,R,Detroit,Tigers,DET,AL,Central,2019-06-06 13:10:00,DET,TB,1,6,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JaCoby,Jones,LF,R,R,Detroit,Tigers,DET,AL,Central,2019-06-06 13:10:00,DET,TB,1,6,2,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Dawel,Lugo,2B,R,R,Detroit,Tigers,DET,AL,Central,2019-06-06 13:10:00,DET,TB,1,6,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Daniel,Norris,SP,L,L,Detroit,Tigers,DET,AL,Central,2019-06-06 13:10:00,DET,TB,1,6,0,0,0,0,0,0,0,0,0,0,N,5.2,11,3,3,1,6
+Ronny,Rodriguez,3B,R,R,Detroit,Tigers,DET,AL,Central,2019-06-06 13:10:00,DET,TB,1,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Christin,Stewart,LF,R,L,Detroit,Tigers,DET,AL,Central,2019-06-06 13:10:00,DET,TB,1,6,4,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daniel,Stumpf,RP,L,L,Detroit,Tigers,DET,AL,Central,2019-06-06 13:10:00,DET,TB,1,6,0,0,0,0,0,0,0,0,0,0,N,0.2,2,3,3,1,0
+Hanser,Alberto,SS,R,R,Baltimore,Orioles,BAL,AL,East,2019-06-06 20:05:00,TEX,BAL,4,3,4,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Miguel,Castro,RP,R,R,Baltimore,Orioles,BAL,AL,East,2019-06-06 20:05:00,TEX,BAL,4,3,0,0,0,0,0,0,0,0,0,0,N,2,0,0,0,1,3
+Chris,Davis,1B,R,L,Baltimore,Orioles,BAL,AL,East,2019-06-06 20:05:00,TEX,BAL,4,3,4,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+David,Hess,RP,R,R,Baltimore,Orioles,BAL,AL,East,2019-06-06 20:05:00,TEX,BAL,4,3,0,0,0,0,0,0,0,0,0,0,N,6,8,4,3,1,2
+Trey,Mancini,LF,R,R,Baltimore,Orioles,BAL,AL,East,2019-06-06 20:05:00,TEX,BAL,4,3,4,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Richie,Martin,SS,R,R,Baltimore,Orioles,BAL,AL,East,2019-06-06 20:05:00,TEX,BAL,4,3,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Renato,Nunez,3B,R,R,Baltimore,Orioles,BAL,AL,East,2019-06-06 20:05:00,TEX,BAL,4,3,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Rio,Ruiz,3B,R,L,Baltimore,Orioles,BAL,AL,East,2019-06-06 20:05:00,TEX,BAL,4,3,4,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+Chance,Sisco,C,R,L,Baltimore,Orioles,BAL,AL,East,2019-06-06 20:05:00,TEX,BAL,4,3,2,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Dwight,Smith Jr.,RF,R,L,Baltimore,Orioles,BAL,AL,East,2019-06-06 20:05:00,TEX,BAL,4,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Stevie,Wilkerson,SS,R,B,Baltimore,Orioles,BAL,AL,East,2019-06-06 20:05:00,TEX,BAL,4,3,4,0,1,0,0,0,1,0,2,0,0,0,0,0,0,0,0
+Aroldis,Chapman,RP,L,L,New York,Yankees,NYY,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,0,0,0,0,0,0,0,0,0,0,Y,1,0,0,0,0,0
+Thairo,Estrada,SS,R,R,New York,Yankees,NYY,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,4,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Clint,Frazier,LF,R,R,New York,Yankees,NYY,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Chad,Green,RP,R,L,New York,Yankees,NYY,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,0,0,0,0,0,0,0,0,0,0,Y,1,4,1,1,0,0
+J.A.,Happ,SP,L,L,New York,Yankees,NYY,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,0,0,0,0,0,0,0,0,0,0,Y,7,4,1,1,0,4
+Aaron,Hicks,CF,R,B,New York,Yankees,NYY,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,5,1,2,0,0,1,3,0,1,0,0,0,0,0,0,0,0
+DJ,LeMahieu,2B,R,R,New York,Yankees,NYY,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,4,1,3,2,0,0,2,1,0,0,0,0,0,0,0,0,0
+Cameron,Maybin,LF,R,R,New York,Yankees,NYY,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,4,2,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Kendrys,Morales,DH,R,B,New York,Yankees,NYY,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Gary,Sanchez,C,R,R,New York,Yankees,NYY,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Gio,Urshela,3B,R,R,New York,Yankees,NYY,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,4,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Luke,Voit,1B,R,R,New York,Yankees,NYY,AL,East,2019-06-06 19:00:00,TOR,NYY,2,6,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Austin,Hedges,C,R,R,San Diego,Padres,SD,NL,West,2019-06-06 22:10:00,SD,WSH,5,4,4,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+Ian,Kinsler,2B,R,R,San Diego,Padres,SD,NL,West,2019-06-06 22:10:00,SD,WSH,5,4,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joey,Lucchesi,SP,L,L,San Diego,Padres,SD,NL,West,2019-06-06 22:10:00,SD,WSH,5,4,0,0,0,0,0,0,0,0,0,0,Y,5,4,4,4,3,5
+Manny,Machado,SS,R,R,San Diego,Padres,SD,NL,West,2019-06-06 22:10:00,SD,WSH,5,4,4,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Manuel,Margot,CF,R,R,San Diego,Padres,SD,NL,West,2019-06-06 22:10:00,SD,WSH,5,4,2,1,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Wil,Myers,RF,R,R,San Diego,Padres,SD,NL,West,2019-06-06 22:10:00,SD,WSH,5,4,2,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0
+Hunter,Renfroe,RF,R,R,San Diego,Padres,SD,NL,West,2019-06-06 22:10:00,SD,WSH,5,4,3,1,1,0,0,1,2,1,1,0,0,0,0,0,0,0,0
+Franmil,Reyes,CF,R,R,San Diego,Padres,SD,NL,West,2019-06-06 22:10:00,SD,WSH,5,4,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+Craig,Stammen,RP,R,R,San Diego,Padres,SD,NL,West,2019-06-06 22:10:00,SD,WSH,5,4,0,0,0,0,0,0,0,0,0,0,Y,1,0,0,0,0,0
+Fernando,Tatis Jr.,SS,R,R,San Diego,Padres,SD,NL,West,2019-06-06 22:10:00,SD,WSH,5,4,2,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Trey,Wingenter,RP,R,R,San Diego,Padres,SD,NL,West,2019-06-06 22:10:00,SD,WSH,5,4,0,0,0,0,0,0,0,0,0,0,Y,1,0,0,0,0,2
+Matt,Wisler,SP,R,R,San Diego,Padres,SD,NL,West,2019-06-06 22:10:00,SD,WSH,5,4,0,0,0,0,0,0,0,0,0,0,Y,1,0,0,0,0,3
+Kirby,Yates,RP,R,L,San Diego,Padres,SD,NL,West,2019-06-06 22:10:00,SD,WSH,5,4,0,0,0,0,0,0,0,0,0,0,Y,1,0,0,0,0,1
